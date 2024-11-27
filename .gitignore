@@ -1,0 +1,10 @@
+/vendor/
+./web/sites/default/files/
+/web/sites/*/settings.php
+/web/sites/*/services.yml
+/tmp/
+*.sql
+*.sqlite
+*.tar.gz
+*.zip
+

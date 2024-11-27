@@ -1,0 +1,5 @@
+# Schema for the configuration files of the cesasc_theme theme.
+
+cesasc_theme.settings:
+  type: theme_settings
+  label: 'cesasc_theme settings'
